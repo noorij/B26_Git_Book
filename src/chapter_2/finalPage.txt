@@ -4,3 +4,4 @@ commit --> push
 and 
 
 remote -> local
+pull/update
